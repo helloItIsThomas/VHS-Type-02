@@ -1,0 +1,18 @@
+
+[
+  {
+    "time": 0.0,
+    "easing": "quint-out",
+    "pathSlider": 0.0
+  },
+  {
+    "time": 1.25,
+    "easing": "sine-in-out",
+    "pathSlider": 1.0
+  },
+  {
+    "time": 1.99,
+    "easing": "quint-in",
+    "pathSlider": 0.0
+  }
+]
